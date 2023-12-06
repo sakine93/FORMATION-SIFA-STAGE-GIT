@@ -1,0 +1,14 @@
+strong{
+    text-decoration: dashed;
+    color: #00000f;
+}
+pre
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    box-shadow: 6px 6px 6px gray inset;
+    box-shadow: 6px 6px 6px gray inset;
+}
