@@ -9,6 +9,6 @@ pre
     text-align: center;
 }
 h1{
-    box-shadow: 6px 6px 6px gray inset;
-    box-shadow: 6px 6px 6px gray inset;
+    box-shadow: 6px 6px 6px orange;
+    box-shadow: 6px 6px 6px gray orange;
 }
